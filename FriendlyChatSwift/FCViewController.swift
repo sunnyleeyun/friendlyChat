@@ -53,10 +53,10 @@ class FCViewController: UIViewController, UITableViewDataSource, UITableViewDele
 
     configureDatabase()
     configureStorage()
-    configureRemoteConfig()
-    fetchConfig()
-    loadAd()
-    logViewLoaded()
+    //configureRemoteConfig()
+    //fetchConfig()
+    //loadAd()
+    //logViewLoaded()
   }
 
   deinit {
